@@ -1,0 +1,14 @@
+/home/shaon/Desktop/C#/The C# Mastery Forge/bin/Debug/net9.0/The C# Mastery Forge
+/home/shaon/Desktop/C#/The C# Mastery Forge/bin/Debug/net9.0/The C# Mastery Forge.deps.json
+/home/shaon/Desktop/C#/The C# Mastery Forge/bin/Debug/net9.0/The C# Mastery Forge.runtimeconfig.json
+/home/shaon/Desktop/C#/The C# Mastery Forge/bin/Debug/net9.0/The C# Mastery Forge.dll
+/home/shaon/Desktop/C#/The C# Mastery Forge/bin/Debug/net9.0/The C# Mastery Forge.pdb
+/home/shaon/Desktop/C#/The C# Mastery Forge/obj/Debug/net9.0/The C# Mastery Forge.GeneratedMSBuildEditorConfig.editorconfig
+/home/shaon/Desktop/C#/The C# Mastery Forge/obj/Debug/net9.0/The C# Mastery Forge.AssemblyInfoInputs.cache
+/home/shaon/Desktop/C#/The C# Mastery Forge/obj/Debug/net9.0/The C# Mastery Forge.AssemblyInfo.cs
+/home/shaon/Desktop/C#/The C# Mastery Forge/obj/Debug/net9.0/The C# Mastery Forge.csproj.CoreCompileInputs.cache
+/home/shaon/Desktop/C#/The C# Mastery Forge/obj/Debug/net9.0/The C# Mastery Forge.dll
+/home/shaon/Desktop/C#/The C# Mastery Forge/obj/Debug/net9.0/refint/The C# Mastery Forge.dll
+/home/shaon/Desktop/C#/The C# Mastery Forge/obj/Debug/net9.0/The C# Mastery Forge.pdb
+/home/shaon/Desktop/C#/The C# Mastery Forge/obj/Debug/net9.0/The C# Mastery Forge.genruntimeconfig.cache
+/home/shaon/Desktop/C#/The C# Mastery Forge/obj/Debug/net9.0/ref/The C# Mastery Forge.dll
