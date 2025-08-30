@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("The C# Mastery Forge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+464bb6d5e0806ed703bcc529338adbf7fd9d1b24")]
 [assembly: System.Reflection.AssemblyProductAttribute("The C# Mastery Forge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("The C# Mastery Forge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
